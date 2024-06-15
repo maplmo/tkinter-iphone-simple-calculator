@@ -1,6 +1,6 @@
 # Tkinter Calculator
 
-This is a simple calculator application built with Tkinter, styled to look like an iPhone calculator.
+This project is my first work using Python, created on my very first day of learning the language. It is a simple version of an iPhone calculator built with Tkinter, a popular GUI toolkit in Python. The calculator supports basic arithmetic operations like addition, subtraction, multiplication, and division, as well as special functions such as AC (All Clear), +/- (Change Sign), % (Percentage), and Backspace.
 
 ## Features
 - Basic arithmetic operations: addition, subtraction, multiplication, division
