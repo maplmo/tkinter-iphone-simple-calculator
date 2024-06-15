@@ -16,3 +16,10 @@ This project is my first work using Python, created on my very first day of lear
    ```sh
    git clone https://github.com/maplmo/tkinter-iphone-simple-calculator
    cd tkinter-iphone-simple-calculator
+
+
+## Support My Coding Journey
+
+Hey everyone! 🌟 I just launched my Buy Me a Coffee page. I'm working hard to escape my 9-5 job and focus more on learning to code. Any support would help me a lot! Thanks! ☕✨
+
+[![Buy Me a Coffee](https://media.giphy.com/media/o7RZbs4KAA6tvM4H6j/giphy.gif)](https://www.buymeacoffee.com/yourusername)
